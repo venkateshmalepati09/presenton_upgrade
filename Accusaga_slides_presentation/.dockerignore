@@ -1,0 +1,13 @@
+.git
+.gitignore
+
+servers/fastapi/tmp
+servers/fastapi/debug
+servers/fastapi/.venv
+servers/fastapi/venv
+venv
+
+servers/nextjs/node_modules
+servers/nextjs/.next
+
+container.db
